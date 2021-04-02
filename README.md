@@ -1,1 +1,1 @@
-# HasnatCET.AppiumprojectDemo
+# AppiumprojectDemo
